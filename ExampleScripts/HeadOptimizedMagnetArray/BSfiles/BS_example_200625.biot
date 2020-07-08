@@ -1,0 +1,7519 @@
+Cuboid {
+name {Mag0001}
+color 19660 45874 45874
+positionX 0
+positionY 0
+positionZ 0.176
+eulerPhi 270
+eulerTheta 2.4997e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016863
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0002}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0
+positionZ 0.17377
+eulerPhi 270
+eulerTheta 2.6101e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016149
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0003}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0
+positionZ 0.16691
+eulerPhi 270
+eulerTheta 3.3545e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012566
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0004}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0
+positionZ 0.161
+eulerPhi 270
+eulerTheta 2.9469e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014304
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0005}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0
+positionZ 0.161
+eulerPhi 270
+eulerTheta 4.7086e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.008952
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0006}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0
+positionZ 0.161
+eulerPhi 270
+eulerTheta 2.2806e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018483
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0007}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0
+positionZ 0.161
+eulerPhi 270
+eulerTheta 2.0108e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020962
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0008}
+color 19660 45874 45874
+positionX 0
+positionY 0.04212
+positionZ 0.17089
+eulerPhi 187.0618
+eulerTheta 24.4166
+eulerPsi -80
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017162
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0009}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.041586
+positionZ 0.16872
+eulerPhi 165.7825
+eulerTheta 27.5317
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017845
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0010}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.039944
+positionZ 0.16206
+eulerPhi 155.5919
+eulerTheta 38.7315
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015092
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0011}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.03853
+positionZ 0.15632
+eulerPhi 178.5768
+eulerTheta 30.145
+eulerPsi -70
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019149
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0012}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.03853
+positionZ 0.15632
+eulerPhi 244.8869
+eulerTheta 51.2449
+eulerPsi -135
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011843
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0013}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.03853
+positionZ 0.15632
+eulerPhi 239.4163
+eulerTheta 40.9423
+eulerPsi -140
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.02145
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0014}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.03853
+positionZ 0.15632
+eulerPhi 181.6386
+eulerTheta 23.5623
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.022048
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0015}
+color 19660 45874 45874
+positionX 0
+positionY 0.081791
+positionZ 0.15584
+eulerPhi 182.3528
+eulerTheta 47.6354
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017767
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0016}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.080756
+positionZ 0.15387
+eulerPhi 167.7128
+eulerTheta 54.1852
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017871
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0017}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.077567
+positionZ 0.14779
+eulerPhi 169.4461
+eulerTheta 58.7076
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015338
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0018}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.07482
+positionZ 0.14256
+eulerPhi 172.8961
+eulerTheta 57.4428
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018146
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0019}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.07482
+positionZ 0.14256
+eulerPhi 211.3392
+eulerTheta 71.738
+eulerPsi -105
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016853
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0020}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.07482
+positionZ 0.14256
+eulerPhi 213.2998
+eulerTheta 52.9678
+eulerPsi -110
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.021209
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0021}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.07482
+positionZ 0.14256
+eulerPhi 175.9892
+eulerTheta 45.2878
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.021894
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0022}
+color 19660 45874 45874
+positionX 0
+positionY 0.11671
+positionZ 0.13174
+eulerPhi 179.6131
+eulerTheta 71.0022
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017747
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0023}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.11523
+positionZ 0.13007
+eulerPhi 168.5552
+eulerTheta 77.9778
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015633
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0024}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.11068
+positionZ 0.12493
+eulerPhi 178.588
+eulerTheta 77.0304
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01518
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0025}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.10676
+positionZ 0.12051
+eulerPhi 157.9972
+eulerTheta 96.2461
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017269
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0026}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.10676
+positionZ 0.12051
+eulerPhi 209.3561
+eulerTheta 108.0086
+eulerPsi -70
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016012
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0027}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.10676
+positionZ 0.12051
+eulerPhi 201.6963
+eulerTheta 77.7014
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019575
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0028}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.10676
+positionZ 0.12051
+eulerPhi 173.1873
+eulerTheta 71.6488
+eulerPsi -85
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020976
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0029}
+color 19660 45874 45874
+positionX 0
+positionY 0.14485
+positionZ 0.099979
+eulerPhi 176.7882
+eulerTheta 99.8061
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01632
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0030}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.14301
+positionZ 0.098714
+eulerPhi 170.6885
+eulerTheta 109.2258
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015592
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0031}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.13736
+positionZ 0.094815
+eulerPhi 175.1703
+eulerTheta 111.3569
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015642
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0032}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.1325
+positionZ 0.091458
+eulerPhi 158.6536
+eulerTheta 116.3022
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014681
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0033}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.1325
+positionZ 0.091458
+eulerPhi 202.6018
+eulerTheta 124.7573
+eulerPsi -70
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013316
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0034}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.1325
+positionZ 0.091458
+eulerPhi 194.2053
+eulerTheta 105.9501
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017895
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0035}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.1325
+positionZ 0.091458
+eulerPhi 172.1125
+eulerTheta 103.2346
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01979
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0036}
+color 19660 45874 45874
+positionX 0
+positionY 0.16456
+positionZ 0.06241
+eulerPhi 178.511
+eulerTheta 130.2073
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01441
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0037}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.16248
+positionZ 0.06162
+eulerPhi 174.3626
+eulerTheta 131.4382
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013101
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0038}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.15606
+positionZ 0.059187
+eulerPhi 174.3597
+eulerTheta 128.0042
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013714
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0039}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.15054
+positionZ 0.057091
+eulerPhi 161.2895
+eulerTheta 135.4078
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015754
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0040}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.15054
+positionZ 0.057091
+eulerPhi 182.6031
+eulerTheta 145.9184
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015404
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0041}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.15054
+positionZ 0.057091
+eulerPhi 184.7362
+eulerTheta 136.7015
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017363
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0042}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.15054
+positionZ 0.057091
+eulerPhi 169.7597
+eulerTheta 135.1439
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018375
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0043}
+color 19660 45874 45874
+positionX 0
+positionY 0.17472
+positionZ 0.021214
+eulerPhi 187.0329
+eulerTheta 160.1232
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013346
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0044}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.1725
+positionZ 0.020946
+eulerPhi 178.2175
+eulerTheta 155.0413
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013759
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0045}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.16569
+positionZ 0.020119
+eulerPhi 158.4599
+eulerTheta 153.5722
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015116
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0046}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.15983
+positionZ 0.019406
+eulerPhi 130.8532
+eulerTheta 165.4844
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015274
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0047}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.15983
+positionZ 0.019406
+eulerPhi 160.7888
+eulerTheta 174.3258
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014751
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0048}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.15983
+positionZ 0.019406
+eulerPhi 176.4203
+eulerTheta 170.0945
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01577
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0049}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.15983
+positionZ 0.019406
+eulerPhi 157.9796
+eulerTheta 171.0376
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016296
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0050}
+color 19660 45874 45874
+positionX 0
+positionY 0.17472
+positionZ -0.021214
+eulerPhi 6.4321
+eulerTheta 166.9762
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013141
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0051}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.1725
+positionZ -0.020946
+eulerPhi 20.7842
+eulerTheta 169.4542
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013679
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0052}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.16569
+positionZ -0.020119
+eulerPhi 29.9005
+eulerTheta 164.8166
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014607
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0053}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.15983
+positionZ -0.019406
+eulerPhi 11.061
+eulerTheta 160.0334
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014469
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0054}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.15983
+positionZ -0.019406
+eulerPhi 26.5089
+eulerTheta 160.6944
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01459
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0055}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.15983
+positionZ -0.019406
+eulerPhi 19.6605
+eulerTheta 154.4978
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01607
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0056}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.15983
+positionZ -0.019406
+eulerPhi 2.9281
+eulerTheta 150.662
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016667
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0057}
+color 19660 45874 45874
+positionX 0
+positionY 0.16456
+positionZ -0.06241
+eulerPhi 5.3325
+eulerTheta 135.7965
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013882
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0058}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.16248
+positionZ -0.06162
+eulerPhi 5.123
+eulerTheta 137.2979
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01407
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0059}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.15606
+positionZ -0.059187
+eulerPhi 1.5822
+eulerTheta 136.6009
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0144
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0060}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.15054
+positionZ -0.057091
+eulerPhi 2.3756
+eulerTheta 140.6367
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013639
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0061}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.15054
+positionZ -0.057091
+eulerPhi 19.8057
+eulerTheta 134.7049
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015235
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0062}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.15054
+positionZ -0.057091
+eulerPhi 10.9653
+eulerTheta 124.4683
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017428
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0063}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.15054
+positionZ -0.057091
+eulerPhi -3.4627
+eulerTheta 119.9174
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018086
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0064}
+color 19660 45874 45874
+positionX 0
+positionY 0.14485
+positionZ -0.099979
+eulerPhi 4.4838
+eulerTheta 104.4996
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014694
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0065}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.14301
+positionZ -0.098714
+eulerPhi 1.1044
+eulerTheta 105.8921
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014323
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0066}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.13736
+positionZ -0.094815
+eulerPhi -7.5686
+eulerTheta 107.5677
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013942
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0067}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.1325
+positionZ -0.091458
+eulerPhi -0.26567
+eulerTheta 121.9582
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012053
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0068}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.1325
+positionZ -0.091458
+eulerPhi 19.1147
+eulerTheta 108.1249
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015678
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0069}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.1325
+positionZ -0.091458
+eulerPhi 8.2956
+eulerTheta 95.7601
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018198
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0070}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.1325
+positionZ -0.091458
+eulerPhi -7.6395
+eulerTheta 91.9488
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01902
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0071}
+color 19660 45874 45874
+positionX 0
+positionY 0.11671
+positionZ -0.13174
+eulerPhi 4.4409
+eulerTheta 73.5486
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015907
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0072}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.11523
+positionZ -0.13007
+eulerPhi -0.61861
+eulerTheta 75.1965
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016057
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0073}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.11068
+positionZ -0.12493
+eulerPhi -11.8798
+eulerTheta 79.5773
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015455
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0074}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.10676
+positionZ -0.12051
+eulerPhi -0.26908
+eulerTheta 92.4679
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012684
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0075}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.10676
+positionZ -0.12051
+eulerPhi 19.3692
+eulerTheta 80.595
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016399
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0076}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.10676
+positionZ -0.12051
+eulerPhi 6.9444
+eulerTheta 68.5658
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019048
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0077}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.10676
+positionZ -0.12051
+eulerPhi -11.7236
+eulerTheta 66.7323
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020188
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0078}
+color 19660 45874 45874
+positionX 0
+positionY 0.081791
+positionZ -0.15584
+eulerPhi 4.9574
+eulerTheta 49.3628
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016699
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0079}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.080756
+positionZ -0.15387
+eulerPhi -2.8295
+eulerTheta 50.5824
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016905
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0080}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.077567
+positionZ -0.14779
+eulerPhi -16.3859
+eulerTheta 56.5327
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017331
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0081}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.07482
+positionZ -0.14256
+eulerPhi 4.087
+eulerTheta 67.3607
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013124
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0082}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.07482
+positionZ -0.14256
+eulerPhi 21.1893
+eulerTheta 56.0763
+eulerPsi -106
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01786
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0083}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.07482
+positionZ -0.14256
+eulerPhi 8.417
+eulerTheta 46.2149
+eulerPsi -86
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019787
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0084}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.07482
+positionZ -0.14256
+eulerPhi -17.4798
+eulerTheta 45.5497
+eulerPsi -70
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020755
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0085}
+color 19660 45874 45874
+positionX 0
+positionY 0.04212
+positionZ -0.17089
+eulerPhi 9.0436
+eulerTheta 26.5516
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017794
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0086}
+color 19660 45874 45874
+positionX 0.027917
+positionY 0.041586
+positionZ -0.16872
+eulerPhi -5.5636
+eulerTheta 28.4221
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016922
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0087}
+color 19660 45874 45874
+positionX 0.055833
+positionY 0.039944
+positionZ -0.16206
+eulerPhi -26.6237
+eulerTheta 33.4681
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016922
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0088}
+color 19660 45874 45874
+positionX 0.08375
+positionY 0.03853
+positionZ -0.15632
+eulerPhi 10.8867
+eulerTheta 34.6102
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012409
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0089}
+color 19660 45874 45874
+positionX 0.11167
+positionY 0.03853
+positionZ -0.15632
+eulerPhi 34.6316
+eulerTheta 32.2125
+eulerPsi -115
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018854
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0090}
+color 19660 45874 45874
+positionX 0.13958
+positionY 0.03853
+positionZ -0.15632
+eulerPhi 10.4508
+eulerTheta 25.2875
+eulerPsi -80
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019583
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0091}
+color 19660 45874 45874
+positionX 0.1675
+positionY 0.03853
+positionZ -0.15632
+eulerPhi -32.8663
+eulerTheta 27.3293
+eulerPsi -50
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020557
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0092}
+color 19660 45874 45874
+positionX 0
+positionY -5.6606e-17
+positionZ -0.176
+eulerPhi 270
+eulerTheta 2.7671e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015233
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0093}
+color 19660 45874 45874
+positionX 0.027917
+positionY -5.5889e-17
+positionZ -0.17377
+eulerPhi 270
+eulerTheta 2.6903e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015668
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0094}
+color 19660 45874 45874
+positionX 0.055833
+positionY -5.3682e-17
+positionZ -0.16691
+eulerPhi 270
+eulerTheta 2.9509e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014284
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0095}
+color 19660 45874 45874
+positionX 0.08375
+positionY -5.1782e-17
+positionZ -0.161
+eulerPhi 270
+eulerTheta 3.7274e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011309
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0096}
+color 19660 45874 45874
+positionX 0.11167
+positionY -5.1782e-17
+positionZ -0.161
+eulerPhi 270
+eulerTheta 2.7621e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015261
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0097}
+color 19660 45874 45874
+positionX 0.13958
+positionY -5.1782e-17
+positionZ -0.161
+eulerPhi 270
+eulerTheta 2.3131e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018223
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0098}
+color 19660 45874 45874
+positionX 0.1675
+positionY -5.1782e-17
+positionZ -0.161
+eulerPhi 270
+eulerTheta 2.4051e-15
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017526
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0099}
+color 19660 45874 45874
+positionX 0
+positionY -0.04212
+positionZ -0.17089
+eulerPhi 170.9564
+eulerTheta 26.5516
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017794
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0100}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.041586
+positionZ -0.16872
+eulerPhi 185.5636
+eulerTheta 28.4221
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016922
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0101}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.039944
+positionZ -0.16206
+eulerPhi 206.6237
+eulerTheta 33.4681
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016922
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0102}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.03853
+positionZ -0.15632
+eulerPhi 169.1133
+eulerTheta 34.6102
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012409
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0103}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.03853
+positionZ -0.15632
+eulerPhi 145.3684
+eulerTheta 32.2125
+eulerPsi -65
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018854
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0104}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.03853
+positionZ -0.15632
+eulerPhi 169.5492
+eulerTheta 25.2875
+eulerPsi -100
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019583
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0105}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.03853
+positionZ -0.15632
+eulerPhi 212.8663
+eulerTheta 27.3293
+eulerPsi -130
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020557
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0106}
+color 19660 45874 45874
+positionX 0
+positionY -0.081791
+positionZ -0.15584
+eulerPhi 175.0426
+eulerTheta 49.3628
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016699
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0107}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.080756
+positionZ -0.15387
+eulerPhi 182.8295
+eulerTheta 50.5824
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016905
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0108}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.077567
+positionZ -0.14779
+eulerPhi 196.3859
+eulerTheta 56.5327
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017331
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0109}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.07482
+positionZ -0.14256
+eulerPhi 175.913
+eulerTheta 67.3607
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013124
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0110}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.07482
+positionZ -0.14256
+eulerPhi 158.8107
+eulerTheta 56.0763
+eulerPsi -74
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01786
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0111}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.07482
+positionZ -0.14256
+eulerPhi 171.583
+eulerTheta 46.2149
+eulerPsi -94
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019787
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0112}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.07482
+positionZ -0.14256
+eulerPhi 197.4798
+eulerTheta 45.5497
+eulerPsi -110
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020755
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0113}
+color 19660 45874 45874
+positionX 0
+positionY -0.11671
+positionZ -0.13174
+eulerPhi 175.5591
+eulerTheta 73.5486
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015907
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0114}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.11523
+positionZ -0.13007
+eulerPhi 180.6186
+eulerTheta 75.1965
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016057
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0115}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.11068
+positionZ -0.12493
+eulerPhi 191.8798
+eulerTheta 79.5773
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015455
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0116}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.10676
+positionZ -0.12051
+eulerPhi 180.2691
+eulerTheta 92.4679
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012684
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0117}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.10676
+positionZ -0.12051
+eulerPhi 160.6308
+eulerTheta 80.595
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016399
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0118}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.10676
+positionZ -0.12051
+eulerPhi 173.0556
+eulerTheta 68.5658
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019048
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0119}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.10676
+positionZ -0.12051
+eulerPhi 191.7236
+eulerTheta 66.7323
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020188
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0120}
+color 19660 45874 45874
+positionX 0
+positionY -0.14485
+positionZ -0.099979
+eulerPhi 175.5162
+eulerTheta 104.4996
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014694
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0121}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.14301
+positionZ -0.098714
+eulerPhi 178.8956
+eulerTheta 105.8921
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014323
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0122}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.13736
+positionZ -0.094815
+eulerPhi 187.5686
+eulerTheta 107.5677
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013942
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0123}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.1325
+positionZ -0.091458
+eulerPhi 180.2657
+eulerTheta 121.9582
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012053
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0124}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.1325
+positionZ -0.091458
+eulerPhi 160.8853
+eulerTheta 108.1249
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015678
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0125}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.1325
+positionZ -0.091458
+eulerPhi 171.7044
+eulerTheta 95.7601
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018198
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0126}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.1325
+positionZ -0.091458
+eulerPhi 187.6395
+eulerTheta 91.9488
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01902
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0127}
+color 19660 45874 45874
+positionX 0
+positionY -0.16456
+positionZ -0.06241
+eulerPhi 174.6675
+eulerTheta 135.7965
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013882
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0128}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.16248
+positionZ -0.06162
+eulerPhi 174.877
+eulerTheta 137.2979
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01407
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0129}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.15606
+positionZ -0.059187
+eulerPhi 178.4178
+eulerTheta 136.6009
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0144
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0130}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.15054
+positionZ -0.057091
+eulerPhi 177.6244
+eulerTheta 140.6367
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013639
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0131}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.15054
+positionZ -0.057091
+eulerPhi 160.1943
+eulerTheta 134.7049
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015235
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0132}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.15054
+positionZ -0.057091
+eulerPhi 169.0347
+eulerTheta 124.4683
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017428
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0133}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.15054
+positionZ -0.057091
+eulerPhi 183.4627
+eulerTheta 119.9174
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018086
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0134}
+color 19660 45874 45874
+positionX 0
+positionY -0.17472
+positionZ -0.021214
+eulerPhi 173.5679
+eulerTheta 166.9762
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013141
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0135}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.1725
+positionZ -0.020946
+eulerPhi 159.2158
+eulerTheta 169.4542
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013679
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0136}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.16569
+positionZ -0.020119
+eulerPhi 150.0995
+eulerTheta 164.8166
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014607
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0137}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.15983
+positionZ -0.019406
+eulerPhi 168.939
+eulerTheta 160.0334
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014469
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0138}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.15983
+positionZ -0.019406
+eulerPhi 153.4911
+eulerTheta 160.6944
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01459
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0139}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.15983
+positionZ -0.019406
+eulerPhi 160.3395
+eulerTheta 154.4978
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01607
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0140}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.15983
+positionZ -0.019406
+eulerPhi 177.0719
+eulerTheta 150.662
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016667
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0141}
+color 19660 45874 45874
+positionX 0
+positionY -0.17472
+positionZ 0.021214
+eulerPhi -7.0329
+eulerTheta 160.1232
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013346
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0142}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.1725
+positionZ 0.020946
+eulerPhi 1.7825
+eulerTheta 155.0413
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013759
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0143}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.16569
+positionZ 0.020119
+eulerPhi 21.5401
+eulerTheta 153.5722
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015116
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0144}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.15983
+positionZ 0.019406
+eulerPhi 49.1468
+eulerTheta 165.4844
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015274
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0145}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.15983
+positionZ 0.019406
+eulerPhi 19.2112
+eulerTheta 174.3258
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014751
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0146}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.15983
+positionZ 0.019406
+eulerPhi 3.5797
+eulerTheta 170.0945
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01577
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0147}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.15983
+positionZ 0.019406
+eulerPhi 22.0204
+eulerTheta 171.0376
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016296
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0148}
+color 19660 45874 45874
+positionX 0
+positionY -0.16456
+positionZ 0.06241
+eulerPhi 1.489
+eulerTheta 130.2073
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01441
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0149}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.16248
+positionZ 0.06162
+eulerPhi 5.6374
+eulerTheta 131.4382
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013101
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0150}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.15606
+positionZ 0.059187
+eulerPhi 5.6403
+eulerTheta 128.0042
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013714
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0151}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.15054
+positionZ 0.057091
+eulerPhi 18.7105
+eulerTheta 135.4078
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015754
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0152}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.15054
+positionZ 0.057091
+eulerPhi -2.6031
+eulerTheta 145.9184
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015404
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0153}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.15054
+positionZ 0.057091
+eulerPhi -4.7362
+eulerTheta 136.7015
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017363
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0154}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.15054
+positionZ 0.057091
+eulerPhi 10.2403
+eulerTheta 135.1439
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018375
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0155}
+color 19660 45874 45874
+positionX 0
+positionY -0.14485
+positionZ 0.099979
+eulerPhi 3.2118
+eulerTheta 99.8061
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01632
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0156}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.14301
+positionZ 0.098714
+eulerPhi 9.3115
+eulerTheta 109.2258
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015592
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0157}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.13736
+positionZ 0.094815
+eulerPhi 4.8297
+eulerTheta 111.3569
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015642
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0158}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.1325
+positionZ 0.091458
+eulerPhi 21.3464
+eulerTheta 116.3022
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014681
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0159}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.1325
+positionZ 0.091458
+eulerPhi -22.6018
+eulerTheta 124.7573
+eulerPsi -110
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013316
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0160}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.1325
+positionZ 0.091458
+eulerPhi -14.2053
+eulerTheta 105.9501
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017895
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0161}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.1325
+positionZ 0.091458
+eulerPhi 7.8875
+eulerTheta 103.2346
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01979
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0162}
+color 19660 45874 45874
+positionX 0
+positionY -0.11671
+positionZ 0.13174
+eulerPhi 0.38687
+eulerTheta 71.0022
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017747
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0163}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.11523
+positionZ 0.13007
+eulerPhi 11.4448
+eulerTheta 77.9778
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015633
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0164}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.11068
+positionZ 0.12493
+eulerPhi 1.412
+eulerTheta 77.0304
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01518
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0165}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.10676
+positionZ 0.12051
+eulerPhi 22.0028
+eulerTheta 96.2461
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017269
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0166}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.10676
+positionZ 0.12051
+eulerPhi -29.3561
+eulerTheta 108.0086
+eulerPsi -110
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016012
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0167}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.10676
+positionZ 0.12051
+eulerPhi -21.6963
+eulerTheta 77.7014
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019575
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0168}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.10676
+positionZ 0.12051
+eulerPhi 6.8127
+eulerTheta 71.6488
+eulerPsi -95
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.020976
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0169}
+color 19660 45874 45874
+positionX 0
+positionY -0.081791
+positionZ 0.15584
+eulerPhi -2.3528
+eulerTheta 47.6354
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017767
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0170}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.080756
+positionZ 0.15387
+eulerPhi 12.2872
+eulerTheta 54.1852
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017871
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0171}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.077567
+positionZ 0.14779
+eulerPhi 10.5539
+eulerTheta 58.7076
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015338
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0172}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.07482
+positionZ 0.14256
+eulerPhi 7.1039
+eulerTheta 57.4428
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018146
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0173}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.07482
+positionZ 0.14256
+eulerPhi -31.3392
+eulerTheta 71.738
+eulerPsi -75
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016853
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0174}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.07482
+positionZ 0.14256
+eulerPhi -33.2998
+eulerTheta 52.9678
+eulerPsi -70
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.021209
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0175}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.07482
+positionZ 0.14256
+eulerPhi 4.0108
+eulerTheta 45.2878
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.021894
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0176}
+color 19660 45874 45874
+positionX 0
+positionY -0.04212
+positionZ 0.17089
+eulerPhi -7.0618
+eulerTheta 24.4166
+eulerPsi -100
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017162
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0177}
+color 19660 45874 45874
+positionX 0.027917
+positionY -0.041586
+positionZ 0.16872
+eulerPhi 14.2175
+eulerTheta 27.5317
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017845
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0178}
+color 19660 45874 45874
+positionX 0.055833
+positionY -0.039944
+positionZ 0.16206
+eulerPhi 24.4081
+eulerTheta 38.7315
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015092
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0179}
+color 19660 45874 45874
+positionX 0.08375
+positionY -0.03853
+positionZ 0.15632
+eulerPhi 1.4232
+eulerTheta 30.145
+eulerPsi -110
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019149
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0180}
+color 19660 45874 45874
+positionX 0.11167
+positionY -0.03853
+positionZ 0.15632
+eulerPhi -64.8869
+eulerTheta 51.2449
+eulerPsi -45
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011843
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0181}
+color 19660 45874 45874
+positionX 0.13958
+positionY -0.03853
+positionZ 0.15632
+eulerPhi -59.4163
+eulerTheta 40.9423
+eulerPsi -40
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.02145
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0182}
+color 19660 45874 45874
+positionX 0.1675
+positionY -0.03853
+positionZ 0.15632
+eulerPhi -1.6386
+eulerTheta 23.5623
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.022048
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0183}
+color 19660 45874 45874
+positionX -0.029783
+positionY 0.029783
+positionZ 0.17089
+eulerPhi 221.9038
+eulerTheta 21.893
+eulerPsi -105
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019083
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0184}
+color 19660 45874 45874
+positionX -0.04212
+positionY 2.5791e-18
+positionZ 0.17089
+eulerPhi 270
+eulerTheta 21.0896
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01658
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0185}
+color 19660 45874 45874
+positionX -0.029783
+positionY -0.029783
+positionZ 0.17089
+eulerPhi -41.9038
+eulerTheta 21.893
+eulerPsi -75
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019083
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0186}
+color 19660 45874 45874
+positionX -0.035488
+positionY 0.073691
+positionZ 0.15584
+eulerPhi 204.6517
+eulerTheta 45.1685
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019719
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0187}
+color 19660 45874 45874
+positionX -0.063947
+positionY 0.050996
+positionZ 0.15584
+eulerPhi 231.7596
+eulerTheta 45.1524
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019593
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0188}
+color 19660 45874 45874
+positionX -0.079741
+positionY 0.0182
+positionZ 0.15584
+eulerPhi 253.9736
+eulerTheta 43.7453
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018547
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0189}
+color 19660 45874 45874
+positionX -0.079741
+positionY -0.0182
+positionZ 0.15584
+eulerPhi -73.9736
+eulerTheta 43.7453
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018547
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0190}
+color 19660 45874 45874
+positionX -0.063947
+positionY -0.050996
+positionZ 0.15584
+eulerPhi -51.7596
+eulerTheta 45.1524
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019593
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0191}
+color 19660 45874 45874
+positionX -0.035488
+positionY -0.073691
+positionZ 0.15584
+eulerPhi -24.6517
+eulerTheta 45.1685
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019719
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0192}
+color 19660 45874 45874
+positionX -0.036065
+positionY 0.111
+positionZ 0.13174
+eulerPhi 198.6838
+eulerTheta 71.173
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017153
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0193}
+color 19660 45874 45874
+positionX -0.0686
+positionY 0.09442
+positionZ 0.13174
+eulerPhi 216.8101
+eulerTheta 72.2263
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018163
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0194}
+color 19660 45874 45874
+positionX -0.09442
+positionY 0.0686
+positionZ 0.13174
+eulerPhi 233.1203
+eulerTheta 73.3183
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018136
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0195}
+color 19660 45874 45874
+positionX -0.111
+positionY 0.036065
+positionZ 0.13174
+eulerPhi 248.7434
+eulerTheta 71.8511
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017182
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0196}
+color 19660 45874 45874
+positionX -0.11671
+positionY 7.1464e-18
+positionZ 0.13174
+eulerPhi 270
+eulerTheta 72.8908
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01537
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0197}
+color 19660 45874 45874
+positionX -0.111
+positionY -0.036065
+positionZ 0.13174
+eulerPhi -68.7434
+eulerTheta 71.8511
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017182
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0198}
+color 19660 45874 45874
+positionX -0.09442
+positionY -0.0686
+positionZ 0.13174
+eulerPhi -53.1203
+eulerTheta 73.3183
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018136
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0199}
+color 19660 45874 45874
+positionX -0.0686
+positionY -0.09442
+positionZ 0.13174
+eulerPhi -36.8101
+eulerTheta 72.2263
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018163
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0200}
+color 19660 45874 45874
+positionX -0.036065
+positionY -0.111
+positionZ 0.13174
+eulerPhi -18.6838
+eulerTheta 71.173
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017153
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0201}
+color 19660 45874 45874
+positionX -0.034664
+positionY 0.14064
+positionZ 0.099979
+eulerPhi 196.6317
+eulerTheta 94.5276
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015118
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0202}
+color 19660 45874 45874
+positionX -0.067313
+positionY 0.12825
+positionZ 0.099979
+eulerPhi 213.0083
+eulerTheta 96.9991
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01531
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0203}
+color 19660 45874 45874
+positionX -0.09605
+positionY 0.10842
+positionZ 0.099979
+eulerPhi 223.2714
+eulerTheta 100.5628
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015728
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0204}
+color 19660 45874 45874
+positionX -0.11921
+positionY 0.082281
+positionZ 0.099979
+eulerPhi 232.3718
+eulerTheta 99.6101
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016002
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0205}
+color 19660 45874 45874
+positionX -0.13543
+positionY 0.051363
+positionZ 0.099979
+eulerPhi 247.0056
+eulerTheta 98.4622
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015857
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0206}
+color 19660 45874 45874
+positionX -0.14379
+positionY 0.017459
+positionZ 0.099979
+eulerPhi 262.7079
+eulerTheta 99.4932
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014989
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0207}
+color 19660 45874 45874
+positionX -0.14379
+positionY -0.017459
+positionZ 0.099979
+eulerPhi -82.7079
+eulerTheta 99.4932
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014989
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0208}
+color 19660 45874 45874
+positionX -0.13543
+positionY -0.051363
+positionZ 0.099979
+eulerPhi -67.0056
+eulerTheta 98.4622
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015857
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0209}
+color 19660 45874 45874
+positionX -0.11921
+positionY -0.082281
+positionZ 0.099979
+eulerPhi -52.3718
+eulerTheta 99.6101
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016002
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0210}
+color 19660 45874 45874
+positionX -0.09605
+positionY -0.10842
+positionZ 0.099979
+eulerPhi -43.2714
+eulerTheta 100.5628
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015728
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0211}
+color 19660 45874 45874
+positionX -0.067313
+positionY -0.12825
+positionZ 0.099979
+eulerPhi -33.0083
+eulerTheta 96.9991
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01531
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0212}
+color 19660 45874 45874
+positionX -0.034664
+positionY -0.14064
+positionZ 0.099979
+eulerPhi -16.6317
+eulerTheta 94.5276
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015118
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0213}
+color 19660 45874 45874
+positionX -0.036619
+positionY 0.16044
+positionZ 0.06241
+eulerPhi 192.7528
+eulerTheta 128.1311
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015179
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0214}
+color 19660 45874 45874
+positionX -0.071401
+positionY 0.14827
+positionZ 0.06241
+eulerPhi 206.6201
+eulerTheta 126.7787
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014926
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0215}
+color 19660 45874 45874
+positionX -0.1026
+positionY 0.12866
+positionZ 0.06241
+eulerPhi 218.7055
+eulerTheta 124.7215
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014611
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0216}
+color 19660 45874 45874
+positionX -0.12866
+positionY 0.1026
+positionZ 0.06241
+eulerPhi 230.3881
+eulerTheta 123.8364
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014625
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0217}
+color 19660 45874 45874
+positionX -0.14827
+positionY 0.071401
+positionZ 0.06241
+eulerPhi 243.4751
+eulerTheta 124.4584
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014983
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0218}
+color 19660 45874 45874
+positionX -0.16044
+positionY 0.036619
+positionZ 0.06241
+eulerPhi 257.1436
+eulerTheta 125.1536
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015207
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0219}
+color 19660 45874 45874
+positionX -0.16456
+positionY 1.0077e-17
+positionZ 0.06241
+eulerPhi 270
+eulerTheta 127.0827
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012037
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0220}
+color 19660 45874 45874
+positionX -0.16044
+positionY -0.036619
+positionZ 0.06241
+eulerPhi -77.1436
+eulerTheta 125.1536
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015207
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0221}
+color 19660 45874 45874
+positionX -0.14827
+positionY -0.071401
+positionZ 0.06241
+eulerPhi -63.4751
+eulerTheta 124.4584
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014983
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0222}
+color 19660 45874 45874
+positionX -0.12866
+positionY -0.1026
+positionZ 0.06241
+eulerPhi -50.3881
+eulerTheta 123.8364
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014625
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0223}
+color 19660 45874 45874
+positionX -0.1026
+positionY -0.12866
+positionZ 0.06241
+eulerPhi -38.7055
+eulerTheta 124.7215
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014611
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0224}
+color 19660 45874 45874
+positionX -0.071401
+positionY -0.14827
+positionZ 0.06241
+eulerPhi -26.6201
+eulerTheta 126.7787
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014926
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0225}
+color 19660 45874 45874
+positionX -0.036619
+positionY -0.16044
+positionZ 0.06241
+eulerPhi -12.7528
+eulerTheta 128.1311
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015179
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0226}
+color 19660 45874 45874
+positionX -0.036326
+positionY 0.1709
+positionZ 0.021214
+eulerPhi 189.8715
+eulerTheta 162.5326
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013408
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0227}
+color 19660 45874 45874
+positionX -0.071064
+positionY 0.15961
+positionZ 0.021214
+eulerPhi 198.6441
+eulerTheta 160.8807
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013518
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0228}
+color 19660 45874 45874
+positionX -0.1027
+positionY 0.14135
+positionZ 0.021214
+eulerPhi 212.2419
+eulerTheta 159.0188
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013486
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0229}
+color 19660 45874 45874
+positionX -0.12984
+positionY 0.11691
+positionZ 0.021214
+eulerPhi 226.6976
+eulerTheta 158.4545
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013326
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0230}
+color 19660 45874 45874
+positionX -0.15131
+positionY 0.087358
+positionZ 0.021214
+eulerPhi 240.69
+eulerTheta 158.8589
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013125
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0231}
+color 19660 45874 45874
+positionX -0.16617
+positionY 0.05399
+positionZ 0.021214
+eulerPhi 250.7719
+eulerTheta 159.2934
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01298
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0232}
+color 19660 45874 45874
+positionX -0.17376
+positionY 0.018263
+positionZ 0.021214
+eulerPhi 264.2249
+eulerTheta 159.4902
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012913
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0233}
+color 19660 45874 45874
+positionX -0.17376
+positionY -0.018263
+positionZ 0.021214
+eulerPhi -84.2249
+eulerTheta 159.4902
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012913
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0234}
+color 19660 45874 45874
+positionX -0.16617
+positionY -0.05399
+positionZ 0.021214
+eulerPhi -70.7719
+eulerTheta 159.2934
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01298
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0235}
+color 19660 45874 45874
+positionX -0.15131
+positionY -0.087358
+positionZ 0.021214
+eulerPhi -60.69
+eulerTheta 158.8589
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013125
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0236}
+color 19660 45874 45874
+positionX -0.12984
+positionY -0.11691
+positionZ 0.021214
+eulerPhi -46.6976
+eulerTheta 158.4545
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013326
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0237}
+color 19660 45874 45874
+positionX -0.1027
+positionY -0.14135
+positionZ 0.021214
+eulerPhi -32.2419
+eulerTheta 159.0188
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013486
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0238}
+color 19660 45874 45874
+positionX -0.071064
+positionY -0.15961
+positionZ 0.021214
+eulerPhi -18.6441
+eulerTheta 160.8807
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013518
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0239}
+color 19660 45874 45874
+positionX -0.036326
+positionY -0.1709
+positionZ 0.021214
+eulerPhi -9.8715
+eulerTheta 162.5326
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013408
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0240}
+color 19660 45874 45874
+positionX -0.036326
+positionY 0.1709
+positionZ -0.021214
+eulerPhi 13.8114
+eulerTheta 164.3818
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013049
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0241}
+color 19660 45874 45874
+positionX -0.071064
+positionY 0.15961
+positionZ -0.021214
+eulerPhi 27.0627
+eulerTheta 164.0478
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013211
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0242}
+color 19660 45874 45874
+positionX -0.1027
+positionY 0.14135
+positionZ -0.021214
+eulerPhi 38.4548
+eulerTheta 163.3381
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013114
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0243}
+color 19660 45874 45874
+positionX -0.12984
+positionY 0.11691
+positionZ -0.021214
+eulerPhi 49.9059
+eulerTheta 162.8056
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012737
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0244}
+color 19660 45874 45874
+positionX -0.15131
+positionY 0.087358
+positionZ -0.021214
+eulerPhi 62.8219
+eulerTheta 162.8747
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012279
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0245}
+color 19660 45874 45874
+positionX -0.16617
+positionY 0.05399
+positionZ -0.021214
+eulerPhi 73.7123
+eulerTheta 163.0042
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011983
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0246}
+color 19660 45874 45874
+positionX -0.17376
+positionY 0.018263
+positionZ -0.021214
+eulerPhi 84.4863
+eulerTheta 163.3908
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011874
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0247}
+color 19660 45874 45874
+positionX -0.17376
+positionY -0.018263
+positionZ -0.021214
+eulerPhi 95.5137
+eulerTheta 163.3908
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011874
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0248}
+color 19660 45874 45874
+positionX -0.16617
+positionY -0.05399
+positionZ -0.021214
+eulerPhi 106.2877
+eulerTheta 163.0042
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011983
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0249}
+color 19660 45874 45874
+positionX -0.15131
+positionY -0.087358
+positionZ -0.021214
+eulerPhi 117.1781
+eulerTheta 162.8747
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012279
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0250}
+color 19660 45874 45874
+positionX -0.12984
+positionY -0.11691
+positionZ -0.021214
+eulerPhi 130.0941
+eulerTheta 162.8056
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.012737
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0251}
+color 19660 45874 45874
+positionX -0.1027
+positionY -0.14135
+positionZ -0.021214
+eulerPhi 141.5452
+eulerTheta 163.3381
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013114
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0252}
+color 19660 45874 45874
+positionX -0.071064
+positionY -0.15961
+positionZ -0.021214
+eulerPhi 152.9373
+eulerTheta 164.0478
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013211
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0253}
+color 19660 45874 45874
+positionX -0.036326
+positionY -0.1709
+positionZ -0.021214
+eulerPhi 166.1886
+eulerTheta 164.3818
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013049
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0254}
+color 19660 45874 45874
+positionX -0.036619
+positionY 0.16044
+positionZ -0.06241
+eulerPhi 13.6416
+eulerTheta 131.7508
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014274
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0255}
+color 19660 45874 45874
+positionX -0.071401
+positionY 0.14827
+positionZ -0.06241
+eulerPhi 27.1569
+eulerTheta 129.6817
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014525
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0256}
+color 19660 45874 45874
+positionX -0.1026
+positionY 0.12866
+positionZ -0.06241
+eulerPhi 40.1783
+eulerTheta 129.1608
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014269
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0257}
+color 19660 45874 45874
+positionX -0.12866
+positionY 0.1026
+positionZ -0.06241
+eulerPhi 52.2139
+eulerTheta 129.3644
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013883
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0258}
+color 19660 45874 45874
+positionX -0.14827
+positionY 0.071401
+positionZ -0.06241
+eulerPhi 64.227
+eulerTheta 130.1844
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013501
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0259}
+color 19660 45874 45874
+positionX -0.16044
+positionY 0.036619
+positionZ -0.06241
+eulerPhi 76.7115
+eulerTheta 130.8147
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013225
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0260}
+color 19660 45874 45874
+positionX -0.16456
+positionY 1.0077e-17
+positionZ -0.06241
+eulerPhi 90
+eulerTheta 130.5513
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.011283
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0261}
+color 19660 45874 45874
+positionX -0.16044
+positionY -0.036619
+positionZ -0.06241
+eulerPhi 103.2885
+eulerTheta 130.8147
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013225
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0262}
+color 19660 45874 45874
+positionX -0.14827
+positionY -0.071401
+positionZ -0.06241
+eulerPhi 115.773
+eulerTheta 130.1844
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013501
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0263}
+color 19660 45874 45874
+positionX -0.12866
+positionY -0.1026
+positionZ -0.06241
+eulerPhi 127.7861
+eulerTheta 129.3644
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.013883
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0264}
+color 19660 45874 45874
+positionX -0.1026
+positionY -0.12866
+positionZ -0.06241
+eulerPhi 139.8217
+eulerTheta 129.1608
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014269
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0265}
+color 19660 45874 45874
+positionX -0.071401
+positionY -0.14827
+positionZ -0.06241
+eulerPhi 152.8431
+eulerTheta 129.6817
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014525
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0266}
+color 19660 45874 45874
+positionX -0.036619
+positionY -0.16044
+positionZ -0.06241
+eulerPhi 166.3584
+eulerTheta 131.7508
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014274
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0267}
+color 19660 45874 45874
+positionX -0.034664
+positionY 0.14064
+positionZ -0.099979
+eulerPhi 15.8512
+eulerTheta 100.4477
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015356
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0268}
+color 19660 45874 45874
+positionX -0.067313
+positionY 0.12825
+positionZ -0.099979
+eulerPhi 31.0764
+eulerTheta 99.509
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01555
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0269}
+color 19660 45874 45874
+positionX -0.09605
+positionY 0.10842
+positionZ -0.099979
+eulerPhi 43.9042
+eulerTheta 100.213
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015438
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0270}
+color 19660 45874 45874
+positionX -0.11921
+positionY 0.082281
+positionZ -0.099979
+eulerPhi 54.8649
+eulerTheta 100.5974
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015242
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0271}
+color 19660 45874 45874
+positionX -0.13543
+positionY 0.051363
+positionZ -0.099979
+eulerPhi 67.2477
+eulerTheta 100.3259
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015209
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0272}
+color 19660 45874 45874
+positionX -0.14379
+positionY 0.017459
+positionZ -0.099979
+eulerPhi 81.5069
+eulerTheta 100.1645
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015183
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0273}
+color 19660 45874 45874
+positionX -0.14379
+positionY -0.017459
+positionZ -0.099979
+eulerPhi 98.4931
+eulerTheta 100.1645
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015183
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0274}
+color 19660 45874 45874
+positionX -0.13543
+positionY -0.051363
+positionZ -0.099979
+eulerPhi 112.7523
+eulerTheta 100.3259
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015209
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0275}
+color 19660 45874 45874
+positionX -0.11921
+positionY -0.082281
+positionZ -0.099979
+eulerPhi 125.1351
+eulerTheta 100.5974
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015242
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0276}
+color 19660 45874 45874
+positionX -0.09605
+positionY -0.10842
+positionZ -0.099979
+eulerPhi 136.0958
+eulerTheta 100.213
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015438
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0277}
+color 19660 45874 45874
+positionX -0.067313
+positionY -0.12825
+positionZ -0.099979
+eulerPhi 148.9236
+eulerTheta 99.509
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.01555
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0278}
+color 19660 45874 45874
+positionX -0.034664
+positionY -0.14064
+positionZ -0.099979
+eulerPhi 164.1488
+eulerTheta 100.4477
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.015356
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0279}
+color 19660 45874 45874
+positionX -0.036065
+positionY 0.111
+positionZ -0.13174
+eulerPhi 19.8114
+eulerTheta 71.572
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017015
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0280}
+color 19660 45874 45874
+positionX -0.0686
+positionY 0.09442
+positionZ -0.13174
+eulerPhi 38.2893
+eulerTheta 72.2417
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017745
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0281}
+color 19660 45874 45874
+positionX -0.09442
+positionY 0.0686
+positionZ -0.13174
+eulerPhi 54.4734
+eulerTheta 72.5659
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017706
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0282}
+color 19660 45874 45874
+positionX -0.111
+positionY 0.036065
+positionZ -0.13174
+eulerPhi 70.692
+eulerTheta 71.0472
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017387
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0283}
+color 19660 45874 45874
+positionX -0.11671
+positionY 7.1464e-18
+positionZ -0.13174
+eulerPhi 90
+eulerTheta 69.4693
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.014853
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0284}
+color 19660 45874 45874
+positionX -0.111
+positionY -0.036065
+positionZ -0.13174
+eulerPhi 109.308
+eulerTheta 71.0472
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017387
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0285}
+color 19660 45874 45874
+positionX -0.09442
+positionY -0.0686
+positionZ -0.13174
+eulerPhi 125.5266
+eulerTheta 72.5659
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017706
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0286}
+color 19660 45874 45874
+positionX -0.0686
+positionY -0.09442
+positionZ -0.13174
+eulerPhi 141.7107
+eulerTheta 72.2417
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017745
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0287}
+color 19660 45874 45874
+positionX -0.036065
+positionY -0.111
+positionZ -0.13174
+eulerPhi 160.1886
+eulerTheta 71.572
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.017015
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0288}
+color 19660 45874 45874
+positionX -0.035488
+positionY 0.073691
+positionZ -0.15584
+eulerPhi 26.0888
+eulerTheta 47.185
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019158
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0289}
+color 19660 45874 45874
+positionX -0.063947
+positionY 0.050996
+positionZ -0.15584
+eulerPhi 53.2713
+eulerTheta 47.7394
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019319
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0290}
+color 19660 45874 45874
+positionX -0.079741
+positionY 0.0182
+positionZ -0.15584
+eulerPhi 77.6346
+eulerTheta 47.9096
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018611
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0291}
+color 19660 45874 45874
+positionX -0.079741
+positionY -0.0182
+positionZ -0.15584
+eulerPhi 102.3654
+eulerTheta 47.9096
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018611
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0292}
+color 19660 45874 45874
+positionX -0.063947
+positionY -0.050996
+positionZ -0.15584
+eulerPhi 126.7287
+eulerTheta 47.7394
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019319
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0293}
+color 19660 45874 45874
+positionX -0.035488
+positionY -0.073691
+positionZ -0.15584
+eulerPhi 153.9112
+eulerTheta 47.185
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.019158
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0294}
+color 19660 45874 45874
+positionX -0.029783
+positionY 0.029783
+positionZ -0.17089
+eulerPhi 46.9039
+eulerTheta 25.3475
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018098
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0295}
+color 19660 45874 45874
+positionX -0.04212
+positionY 2.5791e-18
+positionZ -0.17089
+eulerPhi 90
+eulerTheta 25.7782
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.016158
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0296}
+color 19660 45874 45874
+positionX -0.029783
+positionY -0.029783
+positionZ -0.17089
+eulerPhi 133.0961
+eulerTheta 25.3475
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.018098
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0297}
+color 19660 45874 45874
+positionX 0.1524
+positionY 0.117
+positionZ 0.068
+eulerPhi 189.915
+eulerTheta 106.3221
+eulerPsi -135
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.010177
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0298}
+color 19660 45874 45874
+positionX 0.127
+positionY 0.117
+positionZ 0.068
+eulerPhi 235.2611
+eulerTheta 114.0811
+eulerPsi -120
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0093538
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0299}
+color 19660 45874 45874
+positionX 0.1016
+positionY 0.117
+positionZ 0.068
+eulerPhi 24.8749
+eulerTheta 131.0507
+eulerPsi -85
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0068696
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0300}
+color 19660 45874 45874
+positionX 0.1524
+positionY 0.132
+positionZ 0.037
+eulerPhi 185.4564
+eulerTheta 144.3104
+eulerPsi -120
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0084921
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0301}
+color 19660 45874 45874
+positionX 0.127
+positionY 0.132
+positionZ 0.037
+eulerPhi 224.6829
+eulerTheta 150.5626
+eulerPsi -120
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.007793
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0302}
+color 19660 45874 45874
+positionX 0.1016
+positionY 0.132
+positionZ 0.037
+eulerPhi 10.3382
+eulerTheta 164.088
+eulerPsi -120
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0090496
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0303}
+color 19660 45874 45874
+positionX 0.1524
+positionY 0.132
+positionZ 0
+eulerPhi 41.0366
+eulerTheta 164.4316
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.008589
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0304}
+color 19660 45874 45874
+positionX 0.127
+positionY 0.132
+positionZ 0
+eulerPhi 78.8771
+eulerTheta 176.2111
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0066177
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0305}
+color 19660 45874 45874
+positionX 0.1016
+positionY 0.132
+positionZ 0
+eulerPhi 121.1181
+eulerTheta 178.0615
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0047651
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0306}
+color 19660 45874 45874
+positionX 0.1524
+positionY 0.132
+positionZ -0.037
+eulerPhi 22.7607
+eulerTheta 126.1608
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0088261
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0307}
+color 19660 45874 45874
+positionX 0.127
+positionY 0.132
+positionZ -0.037
+eulerPhi 54.4903
+eulerTheta 140.6033
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0076035
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0308}
+color 19660 45874 45874
+positionX 0.1016
+positionY 0.132
+positionZ -0.037
+eulerPhi 33.5581
+eulerTheta 173.7455
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0051648
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0309}
+color 19660 45874 45874
+positionX 0.1524
+positionY 0.117
+positionZ -0.068
+eulerPhi 13.0552
+eulerTheta 96.017
+eulerPsi 0
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0095871
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0310}
+color 19660 45874 45874
+positionX 0.127
+positionY 0.117
+positionZ -0.068
+eulerPhi 42.3641
+eulerTheta 107.4577
+eulerPsi -95
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0091131
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0311}
+color 19660 45874 45874
+positionX 0.1016
+positionY 0.117
+positionZ -0.068
+eulerPhi 68.1352
+eulerTheta 158.5191
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0065972
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0312}
+color 19660 45874 45874
+positionX 0.1524
+positionY -0.117
+positionZ 0.068
+eulerPhi -9.915
+eulerTheta 106.3221
+eulerPsi -45
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.010177
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0313}
+color 19660 45874 45874
+positionX 0.127
+positionY -0.117
+positionZ 0.068
+eulerPhi -55.2611
+eulerTheta 114.0811
+eulerPsi -60
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0093538
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0314}
+color 19660 45874 45874
+positionX 0.1016
+positionY -0.117
+positionZ 0.068
+eulerPhi 155.1251
+eulerTheta 131.0507
+eulerPsi -95
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0068696
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0315}
+color 19660 45874 45874
+positionX 0.1524
+positionY -0.132
+positionZ 0.037
+eulerPhi -5.4564
+eulerTheta 144.3104
+eulerPsi -60
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0084921
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0316}
+color 19660 45874 45874
+positionX 0.127
+positionY -0.132
+positionZ 0.037
+eulerPhi -44.6829
+eulerTheta 150.5626
+eulerPsi -60
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.007793
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0317}
+color 19660 45874 45874
+positionX 0.1016
+positionY -0.132
+positionZ 0.037
+eulerPhi 169.6618
+eulerTheta 164.088
+eulerPsi -60
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0090496
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0318}
+color 19660 45874 45874
+positionX 0.1524
+positionY -0.132
+positionZ 0
+eulerPhi 138.9634
+eulerTheta 164.4316
+eulerPsi -180
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.008589
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0319}
+color 19660 45874 45874
+positionX 0.127
+positionY -0.132
+positionZ 0
+eulerPhi 101.1229
+eulerTheta 176.2111
+eulerPsi -180
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0066177
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0320}
+color 19660 45874 45874
+positionX 0.1016
+positionY -0.132
+positionZ 0
+eulerPhi 58.8819
+eulerTheta 178.0615
+eulerPsi -180
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0047651
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0321}
+color 19660 45874 45874
+positionX 0.1524
+positionY -0.132
+positionZ -0.037
+eulerPhi 157.2393
+eulerTheta 126.1608
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0088261
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0322}
+color 19660 45874 45874
+positionX 0.127
+positionY -0.132
+positionZ -0.037
+eulerPhi 125.5097
+eulerTheta 140.6033
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0076035
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0323}
+color 19660 45874 45874
+positionX 0.1016
+positionY -0.132
+positionZ -0.037
+eulerPhi 146.4419
+eulerTheta 173.7455
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0051648
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0324}
+color 19660 45874 45874
+positionX 0.1524
+positionY -0.117
+positionZ -0.068
+eulerPhi 166.9448
+eulerTheta 96.017
+eulerPsi -180
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0095871
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0325}
+color 19660 45874 45874
+positionX 0.127
+positionY -0.117
+positionZ -0.068
+eulerPhi 137.6359
+eulerTheta 107.4577
+eulerPsi -85
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0091131
+sizeZ 0.0254
+}
+Cuboid {
+name {Mag0326}
+color 19660 45874 45874
+positionX 0.1016
+positionY -0.117
+positionZ -0.068
+eulerPhi 111.8648
+eulerTheta 158.5191
+eulerPsi -90
+currentSupply none
+wireDiameter 0
+winding 1
+material {N52}
+resolution 0.5mm
+latticeDrawType {0}
+maximumMultipoleOrder 5
+maximumMultipoleOrderForLeaf 1
+drawEdge
+drawSurfaceElements
+sizeX 0.0254
+sizeY 0.0065972
+sizeZ 0.0254
+}
+HardMaterial {
+name {vac}
+remanence 0.000000e+000
+remanenceDirector 0 0 1
+normalizeRemanenceDirector
+}
+
+HardMaterial {
+name {N42}
+remanence 1.32
+remanenceDirector 0 0 1
+normalizeRemanenceDirector
+}
+
+HardMaterial {
+name {N52}
+remanence 1.42
+remanenceDirector 0 0 1
+normalizeRemanenceDirector
+}
+
